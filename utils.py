@@ -30,7 +30,6 @@ def confusion_matrix(actual, predicted):
 #   encoded_label = list()
 #   for label in encoded_label:
 #     for i in range(unique_label):
-#       label = 
 
 
 
